@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-gc
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: YO
+Implementation-Vendor-Id: com.chatappudacity
+Build-Jdk: 1.8.0_111
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-boot-websocket
+Created-By: Maven Integration for Eclipse
+
